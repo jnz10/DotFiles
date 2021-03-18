@@ -1,0 +1,143 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 2
+time: 166.297000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Ed Maverick/mix pa llorar en tu cuarto/01 Ed Maverick - Fuentes de Ortiz.mp3
+1:Ed Maverick/mix pa llorar en tu cuarto/09 Ed Maverick - Wru donde estás.mp3
+2:Ed Maverick/mix pa llorar en tu cuarto/05 Ed Maverick - Karpe Diem.mp3
+3:Galileo Galilei/Sea and The Darkness/01 Galileo Galilei - Sea and The Darkness.mp3
+4:Galileo Galilei/Sea and The Darkness/02 Galileo Galilei - カンフーボーイ.mp3
+5:Galileo Galilei/Sea and The Darkness/03 Galileo Galilei - ゴースト.mp3
+6:Galileo Galilei/Sea and The Darkness/04 Galileo Galilei - ウェンズデイ.mp3
+7:Galileo Galilei/Sea and The Darkness/07 Galileo Galilei - 燃える森と氷河.mp3
+8:Galileo Galilei/Sea and The Darkness/08 Galileo Galilei - 日曜.mp3
+9:Galileo Galilei/Sea and The Darkness/11 Galileo Galilei - ユニーク.mp3
+10:Galileo Galilei/Sea and The Darkness/12 Galileo Galilei - ブルース.mp3
+11:Galileo Galilei/Sea and The Darkness/13 Galileo Galilei - 青い血.mp3
+12:Galileo Galilei/パレード/01 Galileo Galilei - 仆から君へ.mp3
+13:Galileo Galilei/パレード/02 Galileo Galilei - 稚内.mp3
+14:Galileo Galilei/パレード/04 Galileo Galilei - ハマナスの花.mp3
+15:Galileo Galilei/パレード/05 Galileo Galilei - 四ツ叶さがしの旅人.mp3
+16:Galileo Galilei/パレード/06 Galileo Galilei - 夜の窓辺と四つ叶のクローバー.mp3
+17:Galileo Galilei/パレード/07 Galileo Galilei - 夏空.mp3
+18:Galileo Galilei/パレード/08 Galileo Galilei - フラッピー.mp3
+19:Galileo Galilei/パレード/09 Galileo Galilei - どうでもいい.mp3
+20:Bump Of Chicken/Aurora/01 BUMP OF CHICKEN - Aurora.mp3
+21:Bump Of Chicken/COSMONAUT/01 BUMP OF CHICKEN - 三ツ星カルテット.mp3
+22:Bump Of Chicken/Flare/01 BUMP OF CHICKEN - Flare.mp3
+23:Drake/Scorpion/01 Drake - Survival.mp3
+24:Drake/Scorpion/02 Drake - Nonstop.mp3
+25:Drake/Scorpion/03 Drake - Elevate.mp3
+26:Drake/Scorpion/04 Drake - Emotionless.mp3
+27:Drake/Scorpion/05 Drake - God's Plan.mp3
+28:Drake/Scorpion/06 Drake - I'm Upset.mp3
+29:Drake/Scorpion/08 Drake - Mob Ties.mp3
+30:Drake/Scorpion/09 Drake - Can’t Take A Joke.mp3
+31:Drake/Scorpion/10 Drake - Sandra’s Rose.mp3
+32:Drake/Scorpion/11 Drake - Talk Up.mp3
+33:Drake/Scorpion/12 Drake - Is There More.mp3
+34:Drake/Scorpion/13 Drake - Peak.mp3
+35:Drake/Scorpion/14 Drake - Summer Games.mp3
+36:Drake/Scorpion/15 Drake - Jaded.mp3
+37:Drake/Scorpion/16 Drake - Nice For What.mp3
+38:Drake/Scorpion/17 Drake - Finesse.mp3
+39:Drake/Scorpion/18 Drake - Ratchet Happy Birthday.mp3
+40:Drake/Scorpion/19 Drake - That’s How You Feel.mp3
+41:Drake/Scorpion/20 Drake - Blue Tint.mp3
+42:Drake/Scorpion/21 Drake - In My Feelings.mp3
+43:Drake/Scorpion/22 Drake - Don’t Matter To Me.mp3
+44:Drake/Scorpion/23 Drake - After Dark.mp3
+45:Drake/Scorpion/24 Drake - Final Fantasy.mp3
+46:Drake/Scorpion/25 Drake - March 14.mp3
+47:Glass Beach/the first glass beach album/02 glass beach - bedroom community.mp3
+48:Glass Beach/the first glass beach album/04 glass beach - bone skull.mp3
+49:Glass Beach/the first glass beach album/05 glass beach - neon glow.mp3
+50:Glass Beach/the first glass beach album/06 glass beach - cold weather.mp3
+51:Glass Beach/the first glass beach album/07 glass beach - calico.mp3
+52:Glass Beach/the first glass beach album/08 glass beach - glass beach.mp3
+53:One Ok Rock/35xxxv Deluxe Edition/02 ONE OK ROCK - Take Me To The Top.mp3
+54:One Ok Rock/35xxxv Deluxe Edition/03 ONE OK ROCK - Cry Out.mp3
+55:One Ok Rock/35xxxv Deluxe Edition/04 ONE OK ROCK - Suddenly.mp3
+56:One Ok Rock/35xxxv Deluxe Edition/05 ONE OK ROCK - Mighty Long Fall.mp3
+57:One Ok Rock/35xxxv Deluxe Edition/06 ONE OK ROCK - Heartache.mp3
+58:One Ok Rock/35xxxv Deluxe Edition/07 ONE OK ROCK - Memories.mp3
+59:One Ok Rock/35xxxv Deluxe Edition/10 ONE OK ROCK - Good Goodbye.mp3
+60:One Ok Rock/35xxxv Deluxe Edition/11 ONE OK ROCK - One By One.mp3
+61:One Ok Rock/35xxxv Deluxe Edition/12 ONE OK ROCK - Stuck In The Middle.mp3
+62:One Ok Rock/35xxxv Deluxe Edition/13 ONE OK ROCK - Fight The Night.mp3
+63:One Ok Rock/35xxxv Deluxe Edition/14 ONE OK ROCK - Last Dance.mp3
+64:One Ok Rock/35xxxv Deluxe Edition/15 ONE OK ROCK - The Way Back.mp3
+65:One Ok Rock/Ambitions [日本盤]/02 ONE OK ROCK - Bombs away.mp3
+66:One Ok Rock/Ambitions [日本盤]/03 ONE OK ROCK - Taking Off.mp3
+67:One Ok Rock/Ambitions [日本盤]/04 ONE OK ROCK - We are.mp3
+68:One Ok Rock/Ambitions [日本盤]/06 ONE OK ROCK - Always coming back.mp3
+69:One Ok Rock/Ambitions [日本盤]/07 ONE OK ROCK - Bedroom Warfare.mp3
+70:One Ok Rock/Ambitions [日本盤]/08 ONE OK ROCK - Lost in Tonight.mp3
+71:One Ok Rock/Ambitions [日本盤]/09 ONE OK ROCK - I was King.mp3
+72:One Ok Rock/Ambitions [日本盤]/10 ONE OK ROCK - Listen.mp3
+73:One Ok Rock/Ambitions [日本盤]/11 ONE OK ROCK - One Way Ticket.mp3
+74:One Ok Rock/Ambitions [日本盤]/12 ONE OK ROCK - Bon Voyage.mp3
+75:One Ok Rock/Ambitions [日本盤]/13 ONE OK ROCK - Start Again.mp3
+76:One Ok Rock/Eye Of The Storm/01 ONE OK ROCK - Eye Of The Storm.mp3
+77:One Ok Rock/Eye Of The Storm/02 ONE OK ROCK - Stand Out Fit In.mp3
+78:One Ok Rock/Eye Of The Storm/03 ONE OK ROCK - Head High.mp3
+79:One Ok Rock/Eye Of The Storm/04 ONE OK ROCK - Grow Old Die Young.mp3
+80:One Ok Rock/Eye Of The Storm/05 ONE OK ROCK - Push Back.mp3
+81:One Ok Rock/Eye Of The Storm/06 ONE OK ROCK - Wasted Nights.mp3
+82:One Ok Rock/Eye Of The Storm/07 ONE OK ROCK - Change.mp3
+83:One Ok Rock/Eye Of The Storm/08 ONE OK ROCK - Letting Go.mp3
+84:One Ok Rock/Eye Of The Storm/09 ONE OK ROCK - Worst In Me.mp3
+85:One Ok Rock/Eye Of The Storm/10 ONE OK ROCK - In The Stars.mp3
+86:One Ok Rock/Eye Of The Storm/11 ONE OK ROCK - Giants.mp3
+87:One Ok Rock/Eye Of The Storm/12 ONE OK ROCK - Unforgettable.mp3
+88:One Ok Rock/Eye Of The Storm/13 ONE OK ROCK - The Last Time.mp3
+89:Saucy Dog/カントリーロード/07 Saucy Dog - グッバイ.mp3
+90:Saucy Dog/カントリーロード/03 Saucy Dog - いつか.mp3
+91:Saucy Dog/テイクミー/05 Saucy Dog - film.mp3
+92:Saucy Dog/テイクミー/06 Saucy Dog - BLUE.mp3
+93:Saucy Dog/テイクミー/02 Saucy Dog - 今更だって僕は言うかな.mp3
+94:Saucy Dog/テイクミー/03 Saucy Dog - 雷に打たれて.mp3
+95:The Oral Cigarettes/Kisses and Kills/01 THE ORAL CIGARETTES - もういいかい？.mp3
+96:The Oral Cigarettes/Kisses and Kills/03 THE ORAL CIGARETTES - PSYCHOPATH.mp3
+97:The Oral Cigarettes/Kisses and Kills/04 THE ORAL CIGARETTES - Ladies and Gentlemen.mp3
+98:The Oral Cigarettes/Kisses and Kills/05 THE ORAL CIGARETTES - What you want.mp3
+99:The Oral Cigarettes/Kisses and Kills/06 THE ORAL CIGARETTES - トナリアウ.mp3
+100:The Oral Cigarettes/Kisses and Kills/07 THE ORAL CIGARETTES - リブロックアート.mp3
+101:The Oral Cigarettes/Kisses and Kills/08 THE ORAL CIGARETTES - 容姿端麗な嘘.mp3
+102:The Oral Cigarettes/Kisses and Kills/10 THE ORAL CIGARETTES - ReI.mp3
+103:The Oral Cigarettes/SUCK MY WORLD/02 THE ORAL CIGARETTES - Tonight the silence kills me with your fire.mp3
+104:The Oral Cigarettes/SUCK MY WORLD/03 THE ORAL CIGARETTES - Fantasy.mp3
+105:The Oral Cigarettes/SUCK MY WORLD/04 THE ORAL CIGARETTES - Dream In Drive.mp3
+106:The Oral Cigarettes/SUCK MY WORLD/05 THE ORAL CIGARETTES - Maze.mp3
+107:The Oral Cigarettes/SUCK MY WORLD/06 THE ORAL CIGARETTES - Don't you think.mp3
+108:The Oral Cigarettes/SUCK MY WORLD/07 THE ORAL CIGARETTES - Hallelujah.mp3
+109:The Oral Cigarettes/SUCK MY WORLD/08 THE ORAL CIGARETTES - Breathe.mp3
+110:The Oral Cigarettes/SUCK MY WORLD/09 THE ORAL CIGARETTES - ワガママで誤魔化さないで.mp3
+111:The Oral Cigarettes/SUCK MY WORLD/10 THE ORAL CIGARETTES - Shine Holder.mp3
+112:The Oral Cigarettes/SUCK MY WORLD/11 THE ORAL CIGARETTES - Naked.mp3
+113:The Oral Cigarettes/SUCK MY WORLD/12 THE ORAL CIGARETTES - Color Tokyo.mp3
+114:The Oral Cigarettes/SUCK MY WORLD/14 THE ORAL CIGARETTES - The Given.mp3
+115:The Weeknd/After Hours/01 The Weeknd - Alone Again.mp3
+116:The Weeknd/After Hours/02 The Weeknd - Too Late.mp3
+117:The Weeknd/After Hours/03 The Weeknd - Hardest To Love.mp3
+118:The Weeknd/After Hours/04 The Weeknd - Scared To Live.mp3
+119:The Weeknd/After Hours/07 The Weeknd - Heartless.mp3
+120:The Weeknd/After Hours/08 The Weeknd - Faith.mp3
+121:The Weeknd/After Hours/09 The Weeknd - Blinding Lights.mp3
+122:The Weeknd/After Hours/10 The Weeknd - In Your Eyes.mp3
+123:The Weeknd/After Hours/11 The Weeknd - Save Your Tears.mp3
+124:The Weeknd/After Hours/12 The Weeknd - Repeat After Me Interlude.mp3
+125:The Weeknd/After Hours/13 The Weeknd - After Hours.mp3
+126:The Weeknd/After Hours/14 The Weeknd - Until I Bleed Out.mp3
+127:The Weeknd/King Of The Fall/01 The Weeknd - King Of The Fall.mp3
+playlist_end
